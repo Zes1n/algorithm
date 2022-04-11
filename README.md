@@ -1,8 +1,8 @@
 # algorithm
-***
 > **Leetcode刷题记录**
+***
 
-## [代码随想录](programmercarl.com)
+## [代码随想录](https://programmercarl.com/)
 * 数组 
 * 链表
 * 哈希表
@@ -14,3 +14,5 @@
 * 贪心算法
 * 动态规划
 * 单调栈
+
+***
