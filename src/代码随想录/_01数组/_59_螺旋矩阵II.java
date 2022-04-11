@@ -9,14 +9,12 @@ import java.util.Arrays;
  * @created 2022/4/11 11:51
  */
 public class _59_螺旋矩阵II {
-
     /*
         top/right/bottom/left
         1 2 3
         8 9 4
         7 6 5
      */
-
     public static int[][] generateMatrix (int n) {
 
         int[][] ans = new int[n][n];
