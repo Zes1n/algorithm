@@ -1,7 +1,5 @@
 package 代码随想录._02链表;
 
-import javax.xml.soap.Node;
-
 /**
  * 707.设计链表
  *
